@@ -23,3 +23,10 @@
 支持手勢，往右側滑動等於退回前一個屏幕，往下滑動退出所有視頻，直接返回首頁。
 
 ![play](play.png?raw=true "播放視頻")
+
+可以用*喜歡*按鈕把喜歡的視頻放入Favorites。
+
+![like](likevideo.png?raw=true "like視頻")
+
+
+## Favorites
