@@ -30,3 +30,7 @@
 
 
 ## Favorites
+
+Favorites可以幫您快速瀏覽喜歡的視頻和頻道。
+
+![favorites](favorites.png?raw=true "favorites")
