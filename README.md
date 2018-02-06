@@ -34,3 +34,9 @@
 Favorites可以幫您快速瀏覽喜歡的視頻和頻道。
 
 ![favorites](favorites.png?raw=true "favorites")
+
+## 瀏覽歷史
+
+通過歷史記錄可以訪問所有看過的視頻，按照最後觀看的時間排序。
+
+
